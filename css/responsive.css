@@ -1,0 +1,17 @@
+@media screen and(max-width:768px){
+	.text_content{
+		
+	height: 100%;
+    width: 80%;
+    margin-right: 30px;
+	line-height: 30px;
+	    background: none repeat scroll 0 0 #504b4a;
+    color: #ffffff;
+    height: 278px;
+    margin-left: 30px;
+    margin-top: 290px;
+    padding: 15px;
+    border-radius: 10px 10px 10px 10px;
+	}
+	
+}
